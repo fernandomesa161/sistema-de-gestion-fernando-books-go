@@ -1,1 +1,6 @@
-*.exe, /bin/, /libreria, *.out, .env, y .DS_Store.
+*.exe
+/bin/
+/libreria
+*.out
+.env
+.DS_Store
